@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Albina Chernyateva](https://up.htmlacademy.ru/adaptive/17/user/834965).
-* Наставник: Наталья Лоскутова.
+* Наставник: [Наталья Лоскутова] (https://htmlacademy.ru/profile/id33515).
 
 ---
 
